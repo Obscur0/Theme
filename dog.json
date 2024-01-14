@@ -1,1 +1,15 @@
-
+{
+    "name": "Doggy",
+    "description": "because dog :3.",
+    "authors": [
+        {
+            "name": "KulichiQ",
+            "id": "6435963495867394056"
+          }
+        ],
+  "background": {
+    "blur": 0,
+    "url": "https://cdn.discordapp.com/attachments/523570295240654911/1196012121134207017/vuf.png?ex=65b61416&is=65a39f16&hm=6629054374e9dcec75b60b018d67011291041cc6c914a2716a59d5d28dd1156d&",
+    "alpha": 0.63
+  },
+}
