@@ -1,56 +1,35 @@
 {
-    "name": "Doggy",
-    "description": "because dog :3.",
+    "name": "Dark Vendetta",
+    "description": "A \"improved\" dark theme for Discord.\nOriginal theme by ignacio.\nRestored and maintained by Kitomanari.\nTested on 209.14 Discord version.\nLast updated: 30.12.2023.",
     "authors": [
         {
-            "name": "KulichiQ",
-          }
-        ],
-    "rawColors": {
-        "PRIMARY": "#202857",
-        "PRIMARY_100": "#ffffff",
-        "PRIMARY_200": "#b8b8b8",
-        "PRIMARY_300": "#7a8dd6",
-        "PRIMARY_360": "#b8b8b8",
-        "PRIMARY_400": "#7a8dd6",
-        "PRIMARY_500": "#30396F",
-        "PRIMARY_600": "#202857",
-        "PRIMARY_630": "#202857",
-        "PRIMARY_660": "#202857",
-        "PRIMARY_700": "#202857",
-        "PRIMARY_800": "#202857",
-        "PRIMARY_900": "#202857",
-        "YELLOW_300": "#7a8dd6",
-        "BRAND_260": "#9babe8",
-        "BRAND_360": "#7a8dd6",
-        "BRAND_500": "#7a8dd6",
-        "BRAND_560": "#7a8dd6",
-        "GREEN_360": "#7a8dd6",
-        "RED_400": "#7a8dd6",
-        "ORANGE_345": "#7a8dd6",
-        "RED_560": "#7a8dd6",
-        "GREEN_345": "#7a8dd6",
-        "BLUE_345": "#7a8dd6",
-        "WHITE_500": "#ffffff",
-        "BLACK_500": "#30396F82"
-       
+            "name": "ignacio",
+            "id": "811581067940855888"
+        },
+        {
+            "name": "Kitomanari",
+            "id": "437154602626973697"
+        }
+    ],
+    "spec": 2,
+    "semanticColors": {
+        "BACKGROUND_MENTIONED": ["#00000000"]
     },
-  "background": {
+    "rawColors": {
+        "PLUM_13": "#181818",
+        "PLUM_15": "#181818",
+        "PLUM_16": "#181818",
+        "PLUM_17": "#141414",
+        "PLUM_18": "#141414",
+        "PLUM_19": "#181818",
+        "PLUM_20": "#121212",
+        "PLUM_22": "#121212",
+        "PLUM_23": "#181818",
+        "YELLOW_300": "#007bff"
+    }
+    "background": {
     "blur": 0,
     "url": "https://cdn.discordapp.com/attachments/523570295240654911/1196012121134207017/vuf.png",
     "alpha": 0.63
   },
-    "plus": {
-    "version": 0,
-    "iconpack": "rosiecord-plumpy",
-    "icons": {
-          "StatusStreaming": "#7a8dd6",
-          "StatusMobileOnline": "#7a8dd6",
-          "StatusIdle": "#7a8dd6",
-          "StatusDND": "#7a8dd6",
-          "StatusOffline": "#7a8dd6",
-          "StatusOnline": "#7a8dd6"
-          }
-    },
-    "spec": 2
 }
