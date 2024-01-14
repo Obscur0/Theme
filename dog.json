@@ -27,9 +27,5 @@
         "PLUM_23": "#181818",
         "YELLOW_300": "#007bff"
     }
-    "background": {
-    "blur": 0,
-    "url": "https://cdn.discordapp.com/attachments/523570295240654911/1196012121134207017/vuf.png",
-    "alpha": 0.63
-  },
+    
 }
