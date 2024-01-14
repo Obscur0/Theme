@@ -21,24 +21,6 @@
         "TEXT_LINK": [
             "#7a8dd6"
         ],
-        "INTERACTIVE_NORMAL": [
-            "#b8b8b8"
-        ],
-        "INTERACTIVE_HOVER": [
-            "#DCDDDE"
-        ],
-        "INTERACTIVE_ACTIVE": [
-            "#ffffff"
-        ],
-        "INTERACTIVE_MUTED": [
-            "#969696"
-        ],
-        "BACKGROUND_PRIMARY": [
-            "#202857"
-        ],
-        "BACKGROUND_SECONDARY": [
-            "#30396F"
-        ],
         "CHAT_BACKGROUND": [
             "#282f5d"
         ]
