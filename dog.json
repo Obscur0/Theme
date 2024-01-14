@@ -71,33 +71,6 @@
         "BACKGROUND_MODIFIER_SELECTED": [
             "#4252ad"
         ],
-        "BACKGROUND_MODIFIER_ACCENT": [
-            "#30396F"
-        ],
-        "SCROLLBAR_THIN_THUMB": [
-            "#30396F"
-        ],
-        "SCROLLBAR_THIN_TRACK": [
-            "transparent"
-        ],
-        "SCROLLBAR_AUTO_THUMB": [
-            "#202857"
-        ],
-        "SCROLLBAR_AUTO_TRACK": [
-            "#202857"
-        ],
-        "KEYBOARD": [
-            "#202857"
-        ],
-        "CHANNELTEXTAREA_BACKGROUND": [
-            "#ffffff"
-        ],
-        "CHANNEL_ICON": [
-            "#b8b8b8"
-        ],
-        "CHANNELS_DEFAULT": [
-            "#b8b8b8"
-        ],
         "CHAT_BACKGROUND": [
             "#282f5d"
         ]
