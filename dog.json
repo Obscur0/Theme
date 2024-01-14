@@ -43,33 +43,6 @@
         "BACKGROUND_SECONDARY": [
             "#30396F"
         ],
-        "BACKGROUND_SECONDARY_ALT": [
-            "#30396F"
-        ],
-        "BACKGROUND_TERTIARY": [
-            "#202857"
-        ],
-        "BACKGROUND_ACCENT": [
-            "#202857"
-        ],
-        "BACKGROUND_MOBILE_PRIMARY": [
-            "#202857"
-        ],
-        "BACKGROUND_MOBILE_SECONDARY": [
-            "#30396F"
-        ],
-        "BACKGROUND_NESTED_FLOATING": [
-            "#30396F"
-        ],
-        "BACKGROUND_MESSAGE_HOVER": [
-            "#30396F"
-        ],
-        "BACKGROUND_MODIFIER_HOVER": [
-            "#30396F"
-        ],
-        "BACKGROUND_MODIFIER_SELECTED": [
-            "#4252ad"
-        ],
         "CHAT_BACKGROUND": [
             "#282f5d"
         ]
