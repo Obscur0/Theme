@@ -14,6 +14,9 @@
     "spec": 2,
     "semanticColors": {
         "BACKGROUND_MENTIONED": ["#00000000"]
+        "CHAT_BACKGROUND": [
+            "#282f5d"
+        ]
     },
     "rawColors": {
         "PLUM_13": "#181818",
@@ -27,5 +30,10 @@
         "PLUM_23": "#181818",
         "YELLOW_300": "#007bff"
 
-    }
+    },
+    "background": {
+    "blur": 0,
+    "url": "https://cdn.discordapp.com/attachments/919920863720120382/1143132584910520360/New_Project_21_DA0B5E7.png",
+    "alpha": 0.63
+        },
 }
