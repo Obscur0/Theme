@@ -4,7 +4,6 @@
     "authors": [
         {
             "name": "KulichiQ",
-            "id": "6435963495867394056"
           }
         ],
   "background": {
@@ -12,4 +11,17 @@
     "url": "https://cdn.discordapp.com/attachments/523570295240654911/1196012121134207017/vuf.png?ex=65b61416&is=65a39f16&hm=6629054374e9dcec75b60b018d67011291041cc6c914a2716a59d5d28dd1156d&",
     "alpha": 0.63
   },
+     "plus":{
+       "version":"0",
+       "icons":{
+          "ic_new_pins":"#f38ba8",
+          "StatusStreaming": "#cba6f7",
+          "StatusMobileOnline": "#a6e3a1",
+          "StatusIdle": "#f9e2af",
+          "StatusDND": "#f38ba8",
+          "StatusOffline": "#9399b2",
+          "StatusOnline": "#a6e3a1"
+ }
+},
+    "spec": 2
 }
