@@ -13,14 +13,11 @@
         "HEADER_SECONDARY": [
             "#b8b8b8"],
         "TEXT_NORMAL": [
-            "#e8e8e8"
-        ],
+            "#e8e8e8"],
         "TEXT_MUTED": [
-            "#b8b8b8"
-        ],
+            "#b8b8b8"],
         "TEXT_DANGER": [
-            "#7a8dd6"
-        ],
+            "#7a8dd6"],
         "TEXT_LINK": [
             "#7a8dd6"
         ],
