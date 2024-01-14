@@ -1,24 +1,108 @@
 {
-    "name": "Dark Vendetta",
-    "description": "A \"improved\" dark theme for Discord.\nOriginal theme by ignacio.\nRestored and maintained by Kitomanari.\nTested on 209.14 Discord version.\nLast updated: 30.12.2023.",
+    "name": "Catty",
+    "description": "because cat :3.",
     "authors": [
         {
-            "name": "ignacio",
-            "id": "811581067940855888"
-        },
-        {
-            "name": "Kitomanari",
-            "id": "437154602626973697"
-        }
-    ],
-    "spec": 2,
+            "name": "Ari",
+            "id": "639959347518242821"
+          }
+        ],
     "semanticColors": {
-        "BACKGROUND_MENTIONED": ["#00000000"]
+        "HEADER_PRIMARY": [
+            "#ffffff"
+        ],
+        "HEADER_SECONDARY": [
+            "#b8b8b8"
+        ],
+        "TEXT_NORMAL": [
+            "#e8e8e8"
+        ],
+        "TEXT_MUTED": [
+            "#b8b8b8"
+        ],
+        "TEXT_DANGER": [
+            "#7a8dd6"
+        ],
+        "TEXT_LINK": [
+            "#7a8dd6"
+        ],
+        "INTERACTIVE_NORMAL": [
+            "#b8b8b8"
+        ],
+        "INTERACTIVE_HOVER": [
+            "#DCDDDE"
+        ],
+        "INTERACTIVE_ACTIVE": [
+            "#ffffff"
+        ],
+        "INTERACTIVE_MUTED": [
+            "#969696"
+        ],
+        "BACKGROUND_PRIMARY": [
+            "#202857"
+        ],
+        "BACKGROUND_SECONDARY": [
+            "#30396F"
+        ],
+        "BACKGROUND_SECONDARY_ALT": [
+            "#30396F"
+        ],
+        "BACKGROUND_TERTIARY": [
+            "#202857"
+        ],
+        "BACKGROUND_ACCENT": [
+            "#202857"
+        ],
+        "BACKGROUND_MOBILE_PRIMARY": [
+            "#202857"
+        ],
+        "BACKGROUND_MOBILE_SECONDARY": [
+            "#30396F"
+        ],
+        "BACKGROUND_NESTED_FLOATING": [
+            "#30396F"
+        ],
+        "BACKGROUND_MESSAGE_HOVER": [
+            "#30396F"
+        ],
+        "BACKGROUND_MODIFIER_HOVER": [
+            "#30396F"
+        ],
+        "BACKGROUND_MODIFIER_SELECTED": [
+            "#4252ad"
+        ],
+        "BACKGROUND_MODIFIER_ACCENT": [
+            "#30396F"
+        ],
+        "SCROLLBAR_THIN_THUMB": [
+            "#30396F"
+        ],
+        "SCROLLBAR_THIN_TRACK": [
+            "transparent"
+        ],
+        "SCROLLBAR_AUTO_THUMB": [
+            "#202857"
+        ],
+        "SCROLLBAR_AUTO_TRACK": [
+            "#202857"
+        ],
+        "KEYBOARD": [
+            "#202857"
+        ],
+        "CHANNELTEXTAREA_BACKGROUND": [
+            "#ffffff"
+        ],
+        "CHANNEL_ICON": [
+            "#b8b8b8"
+        ],
+        "CHANNELS_DEFAULT": [
+            "#b8b8b8"
+        ],
         "CHAT_BACKGROUND": [
             "#282f5d"
         ]
     },
-    "rawColors": {
+      "rawColors": {
         "PLUM_13": "#181818",
         "PLUM_15": "#181818",
         "PLUM_16": "#181818",
@@ -29,11 +113,24 @@
         "PLUM_22": "#121212",
         "PLUM_23": "#181818",
         "YELLOW_300": "#007bff"
-
+       
     },
-    "background": {
+  "background": {
     "blur": 0,
-    "url": "https://cdn.discordapp.com/attachments/919920863720120382/1143132584910520360/New_Project_21_DA0B5E7.png",
+    "url": "https://cdn.discordapp.com/attachments/523570295240654911/1196012121134207017/vuf.png",
     "alpha": 0.63
-        },
+  },
+    "plus": {
+    "version": 0,
+    "iconpack": "rosiecord-plumpy",
+    "icons": {
+          "StatusStreaming": "#7a8dd6",
+          "StatusMobileOnline": "#7a8dd6",
+          "StatusIdle": "#7a8dd6",
+          "StatusDND": "#7a8dd6",
+          "StatusOffline": "#7a8dd6",
+          "StatusOnline": "#7a8dd6"
+          }
+    },
+    "spec": 2
 }
