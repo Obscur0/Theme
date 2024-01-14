@@ -12,17 +12,5 @@
     "url": "https://cdn.discordapp.com/attachments/523570295240654911/1196012121134207017/vuf.png",
     "alpha": 0.63
   },
-    "plus": {
-    "version": 0,
-    "iconpack": "rosiecord-plumpy",
-    "icons": {
-          "StatusStreaming": "#7a8dd6",
-          "StatusMobileOnline": "#7a8dd6",
-          "StatusIdle": "#7a8dd6",
-          "StatusDND": "#7a8dd6",
-          "StatusOffline": "#7a8dd6",
-          "StatusOnline": "#7a8dd6"
-          }
-    },
     "spec": 2
 }
