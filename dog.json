@@ -8,19 +8,6 @@
           }
         ],
     "semanticColors": {
-        "HEADER_PRIMARY": [
-            "#ffffff"],
-        "HEADER_SECONDARY": [
-            "#b8b8b8"],
-        "TEXT_NORMAL": [
-            "#e8e8e8"],
-        "TEXT_MUTED": [
-            "#b8b8b8"],
-        "TEXT_DANGER": [
-            "#7a8dd6"],
-        "TEXT_LINK": [
-            "#7a8dd6"
-        ],
         "CHAT_BACKGROUND": [
             "#282f5d"
         ]
